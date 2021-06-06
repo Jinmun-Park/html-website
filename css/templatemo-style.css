@@ -115,7 +115,7 @@ a:hover, a:active, a:focus {
   cursor: pointer;
   font-size: inherit;
   font-weight: normal;
-  padding: 15px 30px;
+  padding: 10px 25px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -339,14 +339,14 @@ section {
 
 #home h1 {
   color: #00F260;
-  font-size: 5.5rem;
+  font-size: 5rem;
   margin-top: 0.05px;
   margin-bottom: 0.05px;
 }
 
 #home h2 {
   color: #ffffff;
-  font-size: 5.5rem;
+  font-size: 5rem;
   margin-top: 0.1px;
   margin-bottom: 0.5px;
 }
@@ -526,6 +526,15 @@ section {
 
 #blog-header h2 {
   color: #ffffff;
+  padding: 25px 0 10px 0;
+}
+
+.blog-summary span {
+  display: inline-block;
+  vertical-align: middle;
+  color: #ffffff;
+  font-weight: 500;
+  margin-left: 20px; 
 }
 
 .blog-thumb {
@@ -638,6 +647,14 @@ section {
   font-size: 18px;
 }
 
+.blog-image {
+  border-radius: 1px;
+  padding: 1px;
+  height: 50%;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
 /*---------------------------------------
@@ -655,9 +672,8 @@ section {
 }
 
 .google-map {
-  border-radius: 100%;
   width: 300px;
-  height: 300px;
+  height: 280px;
   overflow: hidden;
   margin: 0 auto;
 }
