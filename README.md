@@ -22,11 +22,11 @@ There are two things that i want to achieve from making this website :
 
 Youtube channel is randomly selected, but please have a look at it if you found the video interesting. [FeelTheRthythm:Seoul][youtube]
 
-<img src="https://github.com/Jinmun-Park/html-website/blob/main/images/github_image_02.PNG" width="650" height="350">
+<img src="https://github.com/Jinmun-Park/html-website/blob/main/images/github-002.PNG" width="650" height="350">
 
 2. Blog and share my interest
 
-<img src="https://github.com/Jinmun-Park/html-website/blob/main/images/github_image_01.PNG" width="650" height="450">
+<img src="https://github.com/Jinmun-Park/html-website/blob/main/images/gitgub-001.PNG" width="650" height="450">
 
 
 [youtube]:https://www.youtube.com/watch?v=3P1CnWI62Ik
