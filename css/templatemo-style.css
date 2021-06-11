@@ -640,7 +640,7 @@ section {
       border-right: 4px solid #2b2b2b;        
 -----------------------------------------*/
 
-.blog-ads h4 {
+.blog-projects h4 {
   font-size: 18px;
 }
 
@@ -672,7 +672,7 @@ section {
 }
 
 
-.blog-ads {
+.blog-projects {
   background: #f9f9f9;
   padding: 30px;
   text-align: center;
@@ -681,7 +681,7 @@ section {
   margin-right: auto;
 }
 
-.blog-ads-details {
+.blog-projects-details {
   margin-bottom: 5%;
   max-width: 850px;
 }
